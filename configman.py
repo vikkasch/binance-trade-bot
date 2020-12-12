@@ -3,9 +3,9 @@ g_config_file = "config.txt"
 
 class ConfigMan():
 
-    cfg_field_api_key = "api_key"
-    cfg_field_api_secret = "api_secret_key"
-    cfg_field_current_coin = "current_coin"
+    cfg_field_api_key = "1buN2hJF4b8mEI49gijRUuItND8hc70wVWKufdB9g52Xm8A0numhG1RliaBtLx8c"
+    cfg_field_api_secret = "JUcUUOyP3WrnlmLTgARnGtMC8i1csZztUneF2FoZG9Bn5C0oPpFWG2eu1k5MUXUo"
+    cfg_field_current_coin = ""
 
     cfg_fields = [cfg_field_api_key, cfg_field_api_secret, cfg_field_current_coin]
 
